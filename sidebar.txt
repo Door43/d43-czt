@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[czt:home|Door43 (czt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-czt|d43-czt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-czt/archive/master.zip|d43-czt.zip]]
+
+**Recent Changes**
+{{changes>ns = czt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/czt|Ethnologue data]]
+
